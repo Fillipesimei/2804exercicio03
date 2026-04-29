@@ -17,8 +17,8 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        int[] array1 = {4, 7, 2, 9, 1};
-        int[] array2 = {100, 50, 75};
+        int[] array1 = {29, 35, 2, 97, 78};
+        int[] array2 = {475, 102, 777};
 
         System.out.println("Maior valor: " + encontrarMaior(array1)); 
         System.out.println("Maior valor: " + encontrarMaior(array2)); 
